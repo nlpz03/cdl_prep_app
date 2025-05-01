@@ -1,0 +1,1 @@
+// Daily tip popup component
